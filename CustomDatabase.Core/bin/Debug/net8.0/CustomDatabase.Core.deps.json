@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CustomDatabase.Core/1.0.0": {
+        "runtime": {
+          "CustomDatabase.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomDatabase.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
